@@ -1,11 +1,6 @@
-# SpringBoot-MVC-jpa-PoC practise
+PoC 5,6,7
 
-example.rar --> SpringBoot Basics
+5. Try to implement Config server in the spring boot application, H2 in-memory concept
+6. Deploy the service in Spring cloud and expose the services using Eureka and Feign client
+7. Learn how to use the Spring Actuators for monitoring
 
-SpringMavenApp.rar --> SpringMVC Basics
-
-restfulWebServices.rar --> restful API with springBoot ( Postman also tried )
-
-springJPA.rar --> JPA basics
-
-jpa_hibernate.rar --> JPA and hibernate practised ( Tried JUNIT test )
